@@ -55,7 +55,7 @@ p.muatrongnam{
 table{
     border: 1px solid;
     width: 1500px;
-    background-color:white;
+    /* background-color:white; */
 }
 
 th{
