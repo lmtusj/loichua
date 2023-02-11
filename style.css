@@ -52,35 +52,10 @@ p.muatrongnam{
     text-align: center;
 } */
 
-table.mv{
+table{
     border: 1px solid;
     width: 1500px;
-    background-color: rgb(255, 219, 255);
-}
-table.gs{
-    border: 1px solid;
-    width: 1500px;
-    background-color: rgb(255, 255, 255);
-}
-table.mc{
-    border: 1px solid;
-    width: 1500px;
-    background-color: rgb(255, 219, 255);
-}
-table.ps{
-    border: 1px solid;
-    width: 1500px;
-    background-color: rgb(255, 255, 255);
-}
-table.tn{
-    border: 1px solid;
-    width: 1500px;
-    background-color: rgb(0, 255, 180);
-}
-table.lerieng{
-    border: 1px solid;
-    width: 1500px;
-    background-color: rgb(255, 255, 255);
+    background-color:white;
 }
 
 th{
