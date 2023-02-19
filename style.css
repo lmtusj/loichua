@@ -8,7 +8,7 @@ p.tieude{
     margin-right: 0;
     margin-top: 3;
     margin-bottom: 3;
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     color: #FF0000;
     text-align: center;
@@ -20,49 +20,23 @@ p.muatrongnam{
     margin-right: 0;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 25;
     font-size: 20;
     color: #FF0000;
     text-align: center;
 }
 
-/* p.noidung{
-    text-indent: auto;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 6;
-    margin-bottom: 6;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 25;
-    font-size: 18;
-    color: #FF0000;
-} */
-
-/* th.ngaytrongtuan{
-    text-indent: auto;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 25;
-    font-size: 20;
-    color: #000;
-    text-align: center;
-} */
-
 table{
     border: 1px solid;
     width: 1500px;
-    /* background-color:white; */
 }
 
 th{
     border: 1px solid;
     text-align: center;
     font-size: 24px;
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     width: 150px;
 }
 
@@ -70,7 +44,7 @@ td{
     border: 1px solid;
     text-align: center;
     font-size: 24px;
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 td:hover{
     background-color: rgb(220, 249, 239);;
@@ -80,5 +54,5 @@ a{
     margin-top: 6px;
     margin-bottom: 6px;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
