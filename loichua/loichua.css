@@ -31,7 +31,7 @@ p.baidoc{
     margin-top: 6px;
     margin-bottom: 6px;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 15px;
+    font-size: large;
     color: blue;
     text-align: justify;
 }
@@ -42,7 +42,7 @@ p.noidung{
     margin-top: 6px;
     margin-bottom: 6px;
     font-family: 'Times New Roman', Times, serif;
-    font-size:medium;
+    font-size: large;
     color: black;
     text-align: justify;
 }
