@@ -1,6 +1,17 @@
 body{
     background: #FFFFCC;
 }
+header{
+    font-weight: bold;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 3;
+    margin-bottom: 3;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: red;
+    text-align: center;
+}
 
 p.tieude{
     text-indent: auto;
@@ -11,7 +22,7 @@ p.tieude{
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     color: #FF0000;
-    text-align: justify;
+    text-align: center;
 }
 
 p.muatrongnam{
@@ -22,9 +33,8 @@ p.muatrongnam{
     margin-bottom: 0;
     font-family: 'Times New Roman', Times, serif;
     font-size: 25;
-    font-size: 20;
     color: #FF0000;
-    text-align: justify;
+    text-align: center;
 }
 
 table{
