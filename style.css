@@ -11,7 +11,7 @@ p.tieude{
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     color: #FF0000;
-    text-align: center;
+    text-align: justify;
 }
 
 p.muatrongnam{
@@ -24,7 +24,7 @@ p.muatrongnam{
     font-size: 25;
     font-size: 20;
     color: #FF0000;
-    text-align: center;
+    text-align: justify;
 }
 
 table{
