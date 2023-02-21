@@ -6,10 +6,10 @@ h2{
     text-indent: auto;
     margin-left: 0;
     margin-right: 0;
-    margin-top: 3px;
-    margin-bottom: 3px;
+    margin-top: 6pt;
+    margin-bottom: 6pt;
     font-family: 'Times New Roman', Times, serif;
-    /* font-size: 25px; */
+    font-size: 33px;
     color: #FF0000;
     text-align: center;
 }
@@ -17,8 +17,8 @@ h2{
 p{
     margin-left: 0;
     margin-right: 0;
-    margin-top: 3px;
-    margin-bottom: 3px;
+    margin-top: 6pt;
+    margin-bottom: 6pt;
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
     color: #FF0000;
@@ -28,8 +28,8 @@ p.baidoc{
     text-indent: 20px;
     margin-left: 0;
     margin-right: 0;
-    margin-top: 6px;
-    margin-bottom: 6px;
+    margin-top: 6pt;
+    margin-bottom: 6pt;
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
     color: blue;
@@ -39,8 +39,8 @@ p.noidung{
     text-indent: 20px;
     margin-left: 0;
     margin-right: 0; 
-    margin-top: 6px;
-    margin-bottom: 6px;
+    margin-top: 6pt;
+    margin-bottom: 6pt;
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
     color: black;
