@@ -9,7 +9,7 @@ h2{
     margin-top: 3px;
     margin-bottom: 3px;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
+    /* font-size: 25px; */
     color: #FF0000;
     text-align: center;
 }
@@ -20,7 +20,7 @@ p{
     margin-top: 3px;
     margin-bottom: 3px;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
+    font-size: xx-large;
     color: #FF0000;
     text-align: center;
 }
@@ -31,7 +31,7 @@ p.baidoc{
     margin-top: 6px;
     margin-bottom: 6px;
     font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: x-large;
     color: blue;
     text-align: justify;
 }
@@ -42,7 +42,7 @@ p.noidung{
     margin-top: 6px;
     margin-bottom: 6px;
     font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: x-large;
     color: black;
     text-align: justify;
 }
