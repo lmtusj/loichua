@@ -1,0 +1,37 @@
+a.j{
+    text-indent: 20px;
+    margin-left: 20px;
+    margin-right: 0;
+    margin-top: 6pt;
+    margin-bottom: 6pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: red;
+    text-align: justify;
+    font-weight: bold;
+}
+
+a.cs{
+    text-indent: 20px;
+    margin-left: 20px;
+    margin-right: 0;
+    margin-top: 6pt;
+    margin-bottom: 6pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: blue;
+    text-align: justify;
+    font-weight: bold;
+}
+
+a.passio{
+    text-indent: 20px;
+    margin-left: 20px;
+    margin-right: 0; 
+    margin-top: 6pt;
+    margin-bottom: 6pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: black;
+    text-align: justify;
+}

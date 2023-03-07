@@ -10,7 +10,7 @@ h2{
     margin-bottom: 6pt;
     font-family: 'Times New Roman', Times, serif;
     font-size: 33px;
-    color: #FF0000;
+    color: red;
     text-align: center;
 }
 
@@ -21,7 +21,7 @@ p{
     margin-bottom: 6pt;
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
-    color: #FF0000;
+    color: red;
     text-align: center;
 }
 p.baidoc{
