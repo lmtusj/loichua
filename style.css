@@ -36,7 +36,7 @@ th{
     text-align: center;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
-    width: 150px;
+    width: 12.5%;
 }
 
 td{
@@ -44,7 +44,9 @@ td{
     text-align: center;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
+    width: 12.5%;
 }
+
 td:hover{
     background-color: rgb(220, 249, 239);;
 }
